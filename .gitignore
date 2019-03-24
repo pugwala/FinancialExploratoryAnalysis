@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Specified project exclusions
+#
+# Data
+sp500_joined_closes.csv
+
